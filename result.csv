@@ -1,0 +1,716 @@
+,title,price,mpg,rating
+0,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+1,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+2,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+3,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+4,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+5,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+6,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+7,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+8,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+9,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+10,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+11,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+12,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+13,2020 Acura NSX,"$159,495",21 MPG,
+14,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+15,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+16,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+17,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+18,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+19,2020 Acura NSX,"$159,495",21 MPG,
+20,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+21,2020 Acura NSX,"$159,495",21 MPG,
+22,2020 Volvo S60,"$37,045",27 MPG,4.6 / 5
+23,2020 Volvo S90,"$51,545",25 MPG,4.0 / 5
+24,2021 Volvo XC40,"$34,695",26 MPG,4.7 / 5
+25,2020 Volvo XC60,"$41,145",24 MPG,4.3 / 5
+26,2021 Volvo XC90,"$49,995",25 MPG,
+27,2020 Volvo V60,"$46,095",25 MPG,4.6 / 5
+28,2021 Volvo XC40,"$34,695",26 MPG,4.7 / 5
+29,2020 Volvo XC60,"$41,145",24 MPG,4.3 / 5
+30,2021 Volvo XC90,"$49,995",25 MPG,
+31,2020 Volvo S60,"$37,045",27 MPG,4.6 / 5
+32,2020 Volvo S90,"$51,545",25 MPG,4.0 / 5
+33,2020 Volvo V60,"$40,645",27 MPG,4.6 / 5
+34,2020 Volvo V90,"$52,445",26 MPG,4.3 / 5
+35,2021 Volvo XC40,"$34,695",26 MPG,4.7 / 5
+36,2020 Volvo XC60,"$41,145",24 MPG,4.3 / 5
+37,2021 Volvo XC90,"$49,995",25 MPG,
+38,2020 Volvo S60,"$56,395",30 MPG,4.6 / 5
+39,2020 Volvo S90,"$64,195",30 MPG,4.0 / 5
+40,2020 Volvo XC60,"$54,945",27 MPG,4.3 / 5
+41,2021 Volvo XC90,"$64,445",27 MPG,
+42,2020 Volvo S60,"$56,395",30 MPG,4.6 / 5
+43,2020 Volvo S90,"$64,195",30 MPG,4.0 / 5
+44,2020 Volvo XC60,"$54,945",27 MPG,4.3 / 5
+45,2021 Volvo XC90,"$64,445",27 MPG,
+46,2020 Volvo V60,"$40,645",27 MPG,4.6 / 5
+47,2020 Volvo V90,"$52,445",26 MPG,4.3 / 5
+48,2021 Subaru Impreza,"$19,720",26 MPG,4.2 / 5
+49,2021 Subaru Legacy,"$23,820",30 MPG,
+50,2020 Subaru WRX,"$28,519",23 MPG,4.3 / 5
+51,2021 Subaru Ascent,"$33,345",23 MPG,4.4 / 5
+52,2021 Subaru Crosstrek,"$23,295",25 MPG,4.6 / 5
+53,2021 Subaru Forester,"$25,845",29 MPG,4.5 / 5
+54,2021 Subaru Outback,"$27,845",29 MPG,
+55,2021 Subaru Crosstrek,"$23,295",25 MPG,4.6 / 5
+56,2021 Subaru Forester,"$25,845",29 MPG,4.5 / 5
+57,2021 Subaru Outback,"$27,845",29 MPG,
+58,2020 Subaru Crosstrek,"$36,155",35 MPG,4.6 / 5
+59,2020 Subaru Crosstrek,"$36,155",35 MPG,4.6 / 5
+60,2020 Subaru BRZ,"$29,745",24 MPG,4.6 / 5
+61,2021 Subaru Impreza,"$20,220",26 MPG,4.2 / 5
+62,2021 Subaru Outback,"$27,845",29 MPG,
+63,2019 Rolls-Royce Ghost,"$351,000",14 MPG,
+64,2019 Rolls-Royce Phantom,"$497,525",14 MPG,
+65,2019 Rolls-Royce Cullinan,"$327,750",14 MPG,
+66,2019 Rolls-Royce Cullinan,"$327,750",14 MPG,
+67,2019 Rolls-Royce Dawn,"$351,650",14 MPG,
+68,2019 Rolls-Royce Ghost,"$351,000",14 MPG,
+69,2019 Rolls-Royce Phantom,"$497,525",14 MPG,
+70,2019 Rolls-Royce Wraith,"$324,600",14 MPG,
+71,2019 Rolls-Royce Wraith,"$324,600",14 MPG,
+72,2019 Rolls-Royce Dawn,"$351,650",14 MPG,
+73,2021 Nissan Altima,"$25,225",32 MPG,4.3 / 5
+74,2020 Nissan Maxima,"$35,375",24 MPG,3.9 / 5
+75,2020 Nissan Sentra,"$20,235",33 MPG,4.6 / 5
+76,2020 Nissan Versa,"$15,755",30 MPG,4.2 / 5
+77,2019 Nissan Versa Note,"$16,575",34 MPG,4.3 / 5
+78,2020 Nissan Armada,"$48,895",16 MPG,4.1 / 5
+79,2020 Nissan Kicks,"$20,165",33 MPG,4.4 / 5
+80,2020 Nissan Murano,"$32,825",23 MPG,4.1 / 5
+81,2020 Nissan Pathfinder,"$33,075",23 MPG,4.1 / 5
+82,2021 Nissan Rogue,"$26,745",30 MPG,4.7 / 5
+83,2020 Nissan Rogue Sport,"$24,525",28 MPG,4.4 / 5
+84,2020 Nissan Kicks,"$20,165",33 MPG,4.4 / 5
+85,2020 Nissan Murano,"$32,825",23 MPG,4.1 / 5
+86,2021 Nissan Rogue,"$26,745",30 MPG,4.7 / 5
+87,2020 Nissan Rogue Sport,"$24,525",28 MPG,4.4 / 5
+88,2019 Nissan Rogue,"$28,795",34 MPG,4.3 / 5
+89,2020 Nissan LEAF,"$32,525",111 MPGe,4.4 / 5
+90,2020 Nissan 370Z,"$31,015",20 MPG,4.2 / 5
+91,2020 Nissan GT-R,"$115,335",18 MPG,
+92,2020 Nissan 370Z,"$31,015",20 MPG,4.2 / 5
+93,2020 Nissan LEAF,"$32,525",111 MPGe,4.4 / 5
+94,2019 Nissan Versa Note,"$16,575",34 MPG,4.3 / 5
+95,2021 Nissan Altima,"$25,225",32 MPG,4.3 / 5
+96,2020 Nissan Maxima,"$35,375",24 MPG,3.9 / 5
+97,2020 Nissan Sentra,"$20,235",33 MPG,4.6 / 5
+98,2020 Nissan Versa,"$15,755",30 MPG,4.2 / 5
+99,2019 Nissan Versa Note,"$16,575",34 MPG,4.3 / 5
+100,2020 Nissan Armada,"$48,895",16 MPG,4.1 / 5
+101,2020 Nissan Kicks,"$20,165",33 MPG,4.4 / 5
+102,2020 Nissan Murano,"$32,825",23 MPG,4.1 / 5
+103,2020 Nissan Pathfinder,"$33,075",23 MPG,4.1 / 5
+104,2021 Nissan Rogue,"$26,745",30 MPG,4.7 / 5
+105,2020 Nissan Rogue Sport,"$24,525",28 MPG,4.4 / 5
+106,2020 Nissan Kicks,"$20,165",33 MPG,4.4 / 5
+107,2020 Nissan Murano,"$32,825",23 MPG,4.1 / 5
+108,2021 Nissan Rogue,"$26,745",30 MPG,4.7 / 5
+109,2020 Nissan Rogue Sport,"$24,525",28 MPG,4.4 / 5
+110,2019 Nissan Rogue,"$28,795",34 MPG,4.3 / 5
+111,2020 Nissan LEAF,"$32,525",111 MPGe,4.4 / 5
+112,2020 Nissan 370Z,"$31,015",20 MPG,4.2 / 5
+113,2020 Nissan GT-R,"$115,335",18 MPG,
+114,2020 Nissan 370Z,"$31,015",20 MPG,4.2 / 5
+115,2020 Nissan LEAF,"$32,525",111 MPGe,4.4 / 5
+116,2019 Nissan Versa Note,"$16,575",34 MPG,4.3 / 5
+117,2020 MINI Clubman,"$31,750",29 MPG,3.8 / 5
+118,2020 MINI Hardtop 4 Door,"$25,250",31 MPG,3.7 / 5
+119,2020 MINI Countryman,"$29,250",29 MPG,
+120,2020 MINI Countryman,"$29,250",29 MPG,
+121,2020 MINI Countryman,"$38,750",29 MPG,
+122,2020 MINI Countryman,"$38,750",29 MPG,
+123,2020 MINI Hardtop 2 Door,"$24,250",31 MPG,3.7 / 5
+124,2020 MINI Clubman,"$31,750",29 MPG,3.8 / 5
+125,2020 MINI Countryman,"$29,250",29 MPG,
+126,2020 MINI Hardtop 2 Door,"$24,250",31 MPG,3.7 / 5
+127,2020 MINI Hardtop 4 Door,"$25,250",31 MPG,3.7 / 5
+128,2019 MINI Convertible,"$27,750",31 MPG,3.7 / 5
+129,2019 McLaren 570GT,"$205,450",18 MPG,
+130,2019 McLaren 570S,"$211,300",18 MPG,
+131,2019 McLaren 600LT,"$242,500",18 MPG,
+132,2019 McLaren 720S,"$317,500",18 MPG,
+133,2019 McLaren 570GT,"$205,450",18 MPG,
+134,2019 McLaren 570S,"$195,000",18 MPG,
+135,2019 McLaren 600LT,"$242,500",18 MPG,
+136,2019 McLaren 720S,"$295,500",18 MPG,
+137,2019 McLaren 570S,"$211,300",18 MPG,
+138,2019 McLaren 720S,"$317,500",18 MPG,
+139,2019 Maserati Ghibli,"$76,975",19 MPG,3.7 / 5
+140,2019 Maserati Quattroporte,"$109,975",18 MPG,
+141,2019 Maserati Levante,"$78,385",17 MPG,4.1 / 5
+142,2019 Maserati Ghibli,"$76,975",19 MPG,3.7 / 5
+143,2019 Maserati GranTurismo,"$152,975",16 MPG,
+144,2019 Maserati Levante,"$78,385",17 MPG,4.1 / 5
+145,2019 Maserati Quattroporte,"$109,975",18 MPG,
+146,2019 Maserati GranTurismo,"$152,975",16 MPG,
+147,2021 Lexus ES,"$40,925",28 MPG,4.7 / 5
+148,2020 Lexus GS,"$52,090",21 MPG,4.4 / 5
+149,2021 Lexus IS,"$40,025",25 MPG,
+150,2020 Lexus LS,"$76,475",23 MPG,
+151,2021 Lexus GX,"$54,125",16 MPG,3.6 / 5
+152,2021 Lexus LX,"$87,875",14 MPG,3.5 / 5
+153,2021 Lexus NX,"$38,535",25 MPG,
+154,2021 Lexus RX,"$46,095",23 MPG,
+155,2021 Lexus UX,"$33,925",32 MPG,4.3 / 5
+156,2021 Lexus NX,"$38,535",25 MPG,
+157,2021 Lexus RX,"$46,095",23 MPG,
+158,2021 Lexus UX,"$33,925",32 MPG,4.3 / 5
+159,2021 Lexus ES,"$40,925",28 MPG,4.7 / 5
+160,2020 Lexus GS,"$52,090",21 MPG,4.4 / 5
+161,2021 Lexus GX,"$54,125",16 MPG,3.6 / 5
+162,2021 Lexus IS,"$40,025",25 MPG,
+163,2020 Lexus LC,"$93,975",19 MPG,
+164,2020 Lexus LS,"$76,475",23 MPG,
+165,2021 Lexus LX,"$87,875",14 MPG,3.5 / 5
+166,2021 Lexus NX,"$38,535",25 MPG,
+167,2021 Lexus RC,"$43,145",25 MPG,
+168,2021 Lexus RX,"$46,095",23 MPG,
+169,2021 Lexus UX,"$33,925",32 MPG,4.3 / 5
+170,2021 Lexus ES,"$42,835",44 MPG,4.7 / 5
+171,2020 Lexus LC,"$98,535",30 MPG,
+172,2020 Lexus LS,"$81,035",28 MPG,
+173,2021 Lexus NX,"$41,085",31 MPG,
+174,2021 Lexus RX,"$48,745",30 MPG,
+175,2021 Lexus UX,"$36,125",39 MPG,4.3 / 5
+176,2020 Lexus LC,"$93,975",19 MPG,
+177,2021 Lexus RC,"$43,145",25 MPG,
+178,2019 Lamborghini Urus,"$203,695",14 MPG,
+179,2019 Lamborghini Aventador,"$463,742",11 MPG,
+180,2019 Lamborghini Huracan,"$226,975",15 MPG,
+181,2019 Lamborghini Urus,"$203,695",14 MPG,
+182,2019 Lamborghini Aventador,"$421,145",11 MPG,
+183,2019 Lamborghini Huracan,"$206,995",15 MPG,
+184,2019 Lamborghini Aventador,"$463,742",11 MPG,
+185,2019 Lamborghini Huracan,"$226,975",15 MPG,
+186,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+187,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+188,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+189,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+190,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+191,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+192,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+193,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+194,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+195,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+196,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+197,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+198,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+199,2020 Acura NSX,"$159,495",21 MPG,
+200,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+201,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+202,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+203,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+204,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+205,2020 Acura NSX,"$159,495",21 MPG,
+206,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+207,2020 Acura NSX,"$159,495",21 MPG,
+208,2021 INFINITI Q50,"$37,625",23 MPG,4.4 / 5
+209,2019 INFINITI Q70,"$51,425",21 MPG,3.8 / 5
+210,2019 INFINITI QX30,"$31,175",27 MPG,4.4 / 5
+211,2021 INFINITI QX50,"$39,345",26 MPG,4.4 / 5
+212,2020 INFINITI QX60,"$45,375",22 MPG,4.2 / 5
+213,2021 INFINITI QX80,"$70,445",16 MPG,3.3 / 5
+214,2021 INFINITI QX50,"$39,345",26 MPG,4.4 / 5
+215,2020 INFINITI QX60,"$45,375",22 MPG,4.2 / 5
+216,2021 INFINITI Q50,"$37,625",23 MPG,4.4 / 5
+217,2020 INFINITI Q60,"$42,375",22 MPG,4.4 / 5
+218,2019 INFINITI Q70,"$51,425",21 MPG,3.8 / 5
+219,2019 INFINITI QX30,"$31,175",27 MPG,4.4 / 5
+220,2021 INFINITI QX50,"$39,345",26 MPG,4.4 / 5
+221,2020 INFINITI QX60,"$45,375",22 MPG,4.2 / 5
+222,2021 INFINITI QX80,"$70,445",16 MPG,3.3 / 5
+223,2020 INFINITI Q60,"$42,375",22 MPG,4.4 / 5
+224,2021 Honda Accord,"$25,725",33 MPG,
+225,2021 Honda Accord Hybrid,"$27,325",48 MPG,
+226,2021 Honda Civic,"$22,005",33 MPG,4.6 / 5
+227,2020 Honda Civic Type R,"$37,950",25 MPG,4.7 / 5
+228,2019 Honda Clarity Electric,"$37,575",114 MPGe,4.7 / 5
+229,2020 Honda Clarity Fuel Cell,"$59,445",68 MPGe,4.7 / 5
+230,2020 Honda Clarity Plug-in Hybrid,"$34,355",42 MPG,4.7 / 5
+231,2020 Honda Fit,"$17,145",31 MPG,4.6 / 5
+232,2021 Honda Insight,"$23,885",52 MPG,4.4 / 5
+233,2021 Honda CR-V,"$26,470",30 MPG,4.7 / 5
+234,2021 Honda CR-V Hybrid,"$31,680",38 MPG,4.7 / 5
+235,2021 Honda HR-V,"$22,140",30 MPG,4.5 / 5
+236,2021 Honda Passport,"$33,710",22 MPG,
+237,2021 Honda Pilot,"$33,370",23 MPG,4.6 / 5
+238,2021 Honda CR-V,"$26,470",30 MPG,4.7 / 5
+239,2021 Honda CR-V Hybrid,"$31,680",38 MPG,4.7 / 5
+240,2021 Honda HR-V,"$22,140",30 MPG,4.5 / 5
+241,2021 Honda Pilot,"$33,370",23 MPG,4.6 / 5
+242,2020 Honda Ridgeline,"$35,020",22 MPG,4.3 / 5
+243,2021 Honda Odyssey,"$32,910",22 MPG,4.7 / 5
+244,2021 Honda Accord Hybrid,"$27,325",48 MPG,
+245,2020 Honda Clarity Plug-in Hybrid,"$34,355",42 MPG,4.7 / 5
+246,2021 Honda CR-V Hybrid,"$31,680",38 MPG,4.7 / 5
+247,2021 Honda Insight,"$23,885",52 MPG,4.4 / 5
+248,2019 Honda Clarity Electric,"$37,575",114 MPGe,4.7 / 5
+249,2020 Honda Clarity Fuel Cell,"$59,445",68 MPGe,4.7 / 5
+250,2020 Honda Clarity Plug-in Hybrid,"$34,355",42 MPG,4.7 / 5
+251,2020 Honda Civic,"$22,005",33 MPG,4.6 / 5
+252,2021 Honda Civic,"$22,955",34 MPG,4.6 / 5
+253,2020 Honda Civic Type R,"$37,950",25 MPG,4.7 / 5
+254,2020 Honda Fit,"$17,145",31 MPG,4.6 / 5
+255,2021 Genesis G70,"$37,025",25 MPG,4.6 / 5
+256,2021 Genesis G80,"$48,725",26 MPG,4.6 / 5
+257,2021 Genesis G90,"$73,975",19 MPG,
+258,2021 Genesis GV80,"$49,925",23 MPG,4.7 / 5
+259,2021 Genesis G70,"$37,025",25 MPG,4.6 / 5
+260,2021 Genesis G80,"$48,725",26 MPG,4.6 / 5
+261,2021 Genesis G90,"$73,975",19 MPG,
+262,2021 Genesis GV80,"$49,925",23 MPG,4.7 / 5
+263,2019 Ford Fiesta,"$15,235",30 MPG,4.2 / 5
+264,2020 Ford Fusion,"$24,365",24 MPG,4.1 / 5
+265,2019 Ford Fusion Energi,"$35,490",42 MPG,4.1 / 5
+266,2020 Ford Fusion Plug-in Hybrid,"$36,195",42 MPG,4.1 / 5
+267,2019 Ford Taurus,"$28,895",21 MPG,3.1 / 5
+268,2021 Ford Bronco Sport,"$28,155",26 MPG,
+269,2020 Ford EcoSport,"$21,090",28 MPG,3.9 / 5
+270,2020 Ford Edge,"$32,345",24 MPG,3.8 / 5
+271,2020 Ford Escape,"$26,080",30 MPG,4.3 / 5
+272,2021 Ford Explorer,"$33,470",24 MPG,4.1 / 5
+273,2019 Ford Flex,"$31,670",19 MPG,3.7 / 5
+274,2020 Ford Escape,"$29,450",41 MPG,4.3 / 5
+275,2021 Ford Explorer,"$51,100",27 MPG,4.1 / 5
+276,2020 Ford Fusion,"$29,195",42 MPG,4.1 / 5
+277,2019 Ford Fusion Energi,"$35,490",42 MPG,4.1 / 5
+278,2020 Ford Fusion Plug-in Hybrid,"$36,195",42 MPG,4.1 / 5
+279,2019 Ford Fusion Energi,"$35,490",42 MPG,4.1 / 5
+280,2020 Ford Fusion Plug-in Hybrid,"$36,195",42 MPG,4.1 / 5
+281,2020 Ford Mustang,"$27,765",24 MPG,4.6 / 5
+282,2019 Ford Fiesta,"$16,765",30 MPG,4.2 / 5
+283,2020 Ford Mustang,"$33,265",23 MPG,4.6 / 5
+284,2019 Ford Fiesta,"$15,235",30 MPG,4.2 / 5
+285,2020 Ford Fusion,"$24,365",24 MPG,4.1 / 5
+286,2019 Ford Fusion Energi,"$35,490",42 MPG,4.1 / 5
+287,2020 Ford Fusion Plug-in Hybrid,"$36,195",42 MPG,4.1 / 5
+288,2019 Ford Taurus,"$28,895",21 MPG,3.1 / 5
+289,2021 Ford Bronco Sport,"$28,155",26 MPG,
+290,2020 Ford EcoSport,"$21,090",28 MPG,3.9 / 5
+291,2020 Ford Edge,"$32,345",24 MPG,3.8 / 5
+292,2020 Ford Escape,"$26,080",30 MPG,4.3 / 5
+293,2021 Ford Explorer,"$33,470",24 MPG,4.1 / 5
+294,2019 Ford Flex,"$31,670",19 MPG,3.7 / 5
+295,2020 Ford Escape,"$29,450",41 MPG,4.3 / 5
+296,2021 Ford Explorer,"$51,100",27 MPG,4.1 / 5
+297,2020 Ford Fusion,"$29,195",42 MPG,4.1 / 5
+298,2019 Ford Fusion Energi,"$35,490",42 MPG,4.1 / 5
+299,2020 Ford Fusion Plug-in Hybrid,"$36,195",42 MPG,4.1 / 5
+300,2019 Ford Fusion Energi,"$35,490",42 MPG,4.1 / 5
+301,2020 Ford Fusion Plug-in Hybrid,"$36,195",42 MPG,4.1 / 5
+302,2020 Ford Mustang,"$27,765",24 MPG,4.6 / 5
+303,2019 Ford Fiesta,"$16,765",30 MPG,4.2 / 5
+304,2020 Ford Mustang,"$33,265",23 MPG,4.6 / 5
+305,2020 Chrysler 300,"$31,535",23 MPG,4.0 / 5
+306,2020 Chrysler Pacifica,"$34,990",22 MPG,4.5 / 5
+307,2020 Chrysler Pacifica Hybrid,"$41,490",30 MPG,4.5 / 5
+308,2021 Chrysler Voyager,"$28,730",22 MPG,4.5 / 5
+309,2020 Chrysler Pacifica Hybrid,"$41,490",30 MPG,4.5 / 5
+310,2020 Chrysler Pacifica Hybrid,"$41,490",30 MPG,4.5 / 5
+311,2019 Cadillac ATS,"$39,990",25 MPG,4.0 / 5
+312,2019 Cadillac ATS-V,"$68,790",19 MPG,4.0 / 5
+313,2020 BMW 2 Series,"$38,495",27 MPG,4.5 / 5
+314,2020 BMW 3 Series,"$41,745",30 MPG,4.6 / 5
+315,2020 BMW 4 Series,"$45,745",27 MPG,4.1 / 5
+316,2020 BMW 5 Series,"$54,895",28 MPG,4.6 / 5
+317,2019 BMW 6 Series,"$71,295",23 MPG,3.7 / 5
+318,2020 BMW 7 Series,"$87,445",24 MPG,
+319,2020 BMW 8 Series,"$85,895",24 MPG,
+320,2019 BMW M5,"$104,695",17 MPG,4.6 / 5
+321,2019 BMW M6,"$122,195",16 MPG,
+322,2020 BMW 2 Series,"$36,295",27 MPG,4.5 / 5
+323,2020 BMW 4 Series,"$45,945",27 MPG,4.1 / 5
+324,2019 BMW 6 Series,"$82,495",23 MPG,3.7 / 5
+325,2020 BMW 8 Series,"$88,895",25 MPG,
+326,2019 BMW i8,"$148,495",27 MPG,
+327,2020 BMW M2,"$59,895",20 MPG,4.5 / 5
+328,2019 BMW M4,"$70,145",20 MPG,4.1 / 5
+329,2019 BMW M6,"$122,195",16 MPG,
+330,2020 BMW Z4,"$50,695",27 MPG,4.4 / 5
+331,2020 BMW 4 Series,"$45,745",27 MPG,4.1 / 5
+332,2019 BMW 6 Series,"$71,295",23 MPG,3.7 / 5
+333,2019 BMW i3,"$45,445",113 MPGe,4.5 / 5
+334,2020 BMW 2 Series,"$42,095",27 MPG,4.5 / 5
+335,2020 BMW 4 Series,"$54,095",27 MPG,4.1 / 5
+336,2020 BMW 8 Series,"$98,395",24 MPG,
+337,2019 BMW i8,"$164,295",27 MPG,
+338,2019 BMW M4,"$78,645",20 MPG,4.1 / 5
+339,2020 BMW Z4,"$50,695",27 MPG,4.4 / 5
+340,2020 Audi A3,"$34,295",30 MPG,4.6 / 5
+341,2020 Audi A4,"$38,395",30 MPG,4.7 / 5
+342,2020 Audi A5,"$43,895",27 MPG,4.8 / 5
+343,2020 Audi A6,"$55,895",27 MPG,4.6 / 5
+344,2021 Audi A7,"$70,245",24 MPG,4.6 / 5
+345,2019 Audi RS 5,"$75,195",20 MPG,4.8 / 5
+346,2020 Audi S3,"$43,995",25 MPG,4.6 / 5
+347,2020 Audi S4,"$50,895",23 MPG,4.7 / 5
+348,2020 Audi S8,"$130,495",16 MPG,
+349,2019 Audi e-tron,"$75,795",74 MPGe,
+350,2020 Audi Q3,"$35,695",22 MPG,4.8 / 5
+351,2021 Audi Q5,"$44,395",25 MPG,4.7 / 5
+352,2020 Audi Q7,"$55,795",21 MPG,4.7 / 5
+353,2021 Audi Q8,"$69,295",20 MPG,4.7 / 5
+354,2020 Audi SQ5,"$53,895",20 MPG,4.7 / 5
+355,2020 Audi Q3,"$35,695",22 MPG,4.8 / 5
+356,2021 Audi Q5,"$44,395",25 MPG,4.7 / 5
+357,2020 Audi Q7,"$55,795",21 MPG,4.7 / 5
+358,2021 Audi Q8,"$69,295",20 MPG,4.7 / 5
+359,2020 Audi SQ5,"$53,895",20 MPG,4.7 / 5
+360,2020 Audi A3,"$34,295",30 MPG,4.6 / 5
+361,2020 Audi A4,"$38,395",30 MPG,4.7 / 5
+362,2019 Audi A4 allroad,"$46,695",25 MPG,4.5 / 5
+363,2020 Audi A5,"$50,895",26 MPG,4.8 / 5
+364,2020 Audi A6,"$55,895",27 MPG,4.6 / 5
+365,2020 Audi A6 allroad,"$66,895",22 MPG,4.6 / 5
+366,2021 Audi A7,"$70,245",24 MPG,4.6 / 5
+367,2019 Audi e-tron,"$75,795",74 MPGe,
+368,2020 Audi Q3,"$35,695",22 MPG,4.8 / 5
+369,2021 Audi Q5,"$44,395",25 MPG,4.7 / 5
+370,2020 Audi Q7,"$55,795",21 MPG,4.7 / 5
+371,2021 Audi Q8,"$69,295",20 MPG,4.7 / 5
+372,2020 Audi R8,"$185,050",16 MPG,
+373,2019 Audi RS 5,"$75,195",21 MPG,4.8 / 5
+374,2020 Audi S3,"$43,995",25 MPG,4.6 / 5
+375,2020 Audi S4,"$50,895",23 MPG,4.7 / 5
+376,2020 Audi S8,"$130,495",16 MPG,
+377,2020 Audi SQ5,"$53,895",20 MPG,4.7 / 5
+378,2020 Audi TT,"$46,495",26 MPG,4.3 / 5
+379,2021 Audi A7,"$75,945",29 MPG,4.6 / 5
+380,2021 Audi Q5,"$52,995",27 MPG,4.7 / 5
+381,2021 Audi A7,"$75,945",29 MPG,4.6 / 5
+382,2019 Audi e-tron,"$75,795",74 MPGe,
+383,2021 Audi Q5,"$52,995",27 MPG,4.7 / 5
+384,2020 Audi A5,"$43,895",27 MPG,4.8 / 5
+385,2020 Audi R8,"$172,850",16 MPG,
+386,2019 Audi RS 5,"$75,195",21 MPG,4.8 / 5
+387,2020 Audi TT,"$46,495",26 MPG,4.3 / 5
+388,2020 Audi A5,"$43,895",27 MPG,4.8 / 5
+389,2021 Audi A7,"$70,245",24 MPG,4.6 / 5
+390,2019 Audi RS 5,"$75,195",20 MPG,4.8 / 5
+391,2020 Audi TT,"$46,495",26 MPG,4.3 / 5
+392,2019 Audi A4 allroad,"$46,695",25 MPG,4.5 / 5
+393,2020 Audi A6 allroad,"$66,895",22 MPG,4.6 / 5
+394,2020 Audi A5,"$50,895",26 MPG,4.8 / 5
+395,2020 Audi R8,"$185,050",16 MPG,
+396,2020 Volkswagen Arteon,"$37,015",25 MPG,4.1 / 5
+397,2019 Volkswagen e-Golf,"$32,790",119 MPGe,4.1 / 5
+398,2020 Volkswagen Golf,"$24,115",31 MPG,4.1 / 5
+399,2020 Volkswagen Golf GTI,"$29,515",27 MPG,4.1 / 5
+400,2019 Volkswagen Golf R,"$41,290",24 MPG,4.1 / 5
+401,2020 Volkswagen Jetta,"$19,815",34 MPG,4.4 / 5
+402,2020 Volkswagen Jetta GLI,"$27,165",28 MPG,4.4 / 5
+403,2020 Volkswagen Passat,"$23,915",27 MPG,4.1 / 5
+404,2021 Volkswagen Atlas,"$32,565",22 MPG,
+405,2020 Volkswagen Atlas Cross Sport,"$31,565",22 MPG,4.5 / 5
+406,2021 Volkswagen Tiguan,"$26,440",25 MPG,4.2 / 5
+407,2021 Volkswagen Atlas,"$32,565",22 MPG,
+408,2020 Volkswagen Atlas Cross Sport,"$31,565",22 MPG,4.5 / 5
+409,2021 Volkswagen Tiguan,"$26,440",25 MPG,4.2 / 5
+410,2019 Volkswagen e-Golf,"$32,790",119 MPGe,4.1 / 5
+411,2019 Volkswagen Beetle,"$23,940",29 MPG,3.6 / 5
+412,2020 Volkswagen Arteon,"$37,015",25 MPG,4.1 / 5
+413,2019 Volkswagen Beetle,"$23,940",29 MPG,3.6 / 5
+414,2019 Volkswagen e-Golf,"$32,790",119 MPGe,4.1 / 5
+415,2020 Volkswagen Golf,"$24,115",31 MPG,4.1 / 5
+416,2020 Volkswagen Golf GTI,"$29,515",27 MPG,4.1 / 5
+417,2019 Volkswagen Golf R,"$41,290",24 MPG,4.1 / 5
+418,2019 Volkswagen Golf Alltrack,"$27,790",24 MPG,4.2 / 5
+419,2019 Volkswagen Golf SportWagen,"$22,790",32 MPG,4.1 / 5
+420,2019 Volkswagen Beetle,"$26,890",29 MPG,3.6 / 5
+421,2019 smart fortwo EQ cabrio,"$28,850",102 MPGe,3.0 / 5
+422,2019 smart fortwo EQ coupe,"$24,650",108 MPGe,3.0 / 5
+423,2019 smart fortwo EQ coupe,"$24,650",108 MPGe,3.0 / 5
+424,2019 smart fortwo EQ coupe,"$24,650",108 MPGe,3.0 / 5
+425,2019 smart fortwo EQ cabrio,"$28,850",102 MPGe,3.0 / 5
+426,2020 Porsche Cayenne,"$82,450",21 MPG,4.5 / 5
+427,2020 Porsche Cayenne Coupe,"$87,750",21 MPG,4.5 / 5
+428,2020 Porsche Panamera,"$105,150",25 MPG,
+429,2020 Porsche 718 Cayman,"$58,850",22 MPG,4.6 / 5
+430,2020 Porsche 911,"$98,750",20 MPG,
+431,2020 Porsche 718 Boxster,"$62,300",22 MPG,4.6 / 5
+432,2020 Porsche 718 Spyder,"$97,650",19 MPG,4.6 / 5
+433,2020 Porsche 911,"$111,550",20 MPG,
+434,2020 Mitsubishi Mirage G4,"$16,135",35 MPG,3.0 / 5
+435,2020 Mitsubishi Eclipse Cross,"$24,335",27 MPG,3.6 / 5
+436,2020 Mitsubishi Outlander,"$26,235",27 MPG,3.5 / 5
+437,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+438,2020 Mitsubishi Outlander Sport,"$23,935",27 MPG,3.1 / 5
+439,2020 Mitsubishi Eclipse Cross,"$24,335",27 MPG,3.6 / 5
+440,2020 Mitsubishi Outlander,"$26,235",27 MPG,3.5 / 5
+441,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+442,2020 Mitsubishi Outlander Sport,"$23,935",27 MPG,3.1 / 5
+443,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+444,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+445,2020 Mitsubishi Mirage,"$15,280",36 MPG,3.0 / 5
+446,2020 Mitsubishi Mirage G4,"$16,135",35 MPG,3.0 / 5
+447,2020 Mitsubishi Eclipse Cross,"$24,335",27 MPG,3.6 / 5
+448,2020 Mitsubishi Outlander,"$26,235",27 MPG,3.5 / 5
+449,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+450,2020 Mitsubishi Outlander Sport,"$23,935",27 MPG,3.1 / 5
+451,2020 Mitsubishi Eclipse Cross,"$24,335",27 MPG,3.6 / 5
+452,2020 Mitsubishi Outlander,"$26,235",27 MPG,3.5 / 5
+453,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+454,2020 Mitsubishi Outlander Sport,"$23,935",27 MPG,3.1 / 5
+455,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+456,2020 Mitsubishi Outlander PHEV,"$37,705",25 MPG,3.5 / 5
+457,2020 Mitsubishi Mirage,"$15,280",36 MPG,3.0 / 5
+458,2021 MAZDA MAZDA3,"$21,445",31 MPG,4.4 / 5
+459,2020 MAZDA MAZDA6,"$25,045",29 MPG,4.4 / 5
+460,2020 MAZDA CX-3,"$21,740",31 MPG,4.2 / 5
+461,2021 MAZDA CX-30,"$23,000",28 MPG,4.7 / 5
+462,2021 MAZDA CX-5,"$26,370",28 MPG,4.2 / 5
+463,2021 MAZDA CX-9,"$35,060",24 MPG,
+464,2020 MAZDA CX-3,"$21,740",31 MPG,4.2 / 5
+465,2021 MAZDA CX-30,"$23,000",28 MPG,4.7 / 5
+466,2021 MAZDA CX-5,"$26,370",28 MPG,4.2 / 5
+467,2021 MAZDA CX-9,"$35,060",24 MPG,
+468,2020 MAZDA MX-5 Miata RF,"$33,990",29 MPG,4.6 / 5
+469,2021 MAZDA MAZDA3,"$23,445",29 MPG,4.4 / 5
+470,2020 MAZDA MX-5 Miata,"$27,525",29 MPG,4.6 / 5
+471,2020 MAZDA MX-5 Miata RF,"$33,990",29 MPG,4.6 / 5
+472,2020 Lincoln Continental,"$47,300",20 MPG,3.7 / 5
+473,2020 Lincoln MKZ,"$37,745",41 MPG,3.7 / 5
+474,2021 Lincoln Aviator,"$52,195",21 MPG,4.0 / 5
+475,2020 Lincoln Corsair,"$36,940",25 MPG,4.2 / 5
+476,2019 Lincoln MKC,"$34,990",23 MPG,4.0 / 5
+477,2019 Lincoln MKT,"$50,495",17 MPG,3.4 / 5
+478,2020 Lincoln Nautilus,"$42,035",23 MPG,3.9 / 5
+479,2021 Lincoln Aviator,"$69,995",23 MPG,4.0 / 5
+480,2020 Lincoln MKZ,"$37,745",41 MPG,3.7 / 5
+481,2021 Lincoln Aviator,"$69,995",23 MPG,4.0 / 5
+482,2020 Land Rover Defender 110,"$51,250",18 MPG,4.6 / 5
+483,2020 Land Rover Defender 90,"$66,450",19 MPG,
+484,2020 Land Rover Discovery,"$53,650",18 MPG,3.9 / 5
+485,2020 Land Rover Discovery Sport,"$38,850",21 MPG,3.6 / 5
+486,2020 Land Rover Range Rover,"$92,250",21 MPG,3.3 / 5
+487,2020 Land Rover Range Rover Evoque,"$43,645",23 MPG,4.2 / 5
+488,2021 Land Rover Range Rover Sport,"$70,850",24 MPG,4.2 / 5
+489,2020 Land Rover Range Rover Velar,"$57,325",23 MPG,4.2 / 5
+490,2020 Land Rover Range Rover Velar,"$57,325",23 MPG,4.2 / 5
+491,2020 Land Rover Defender 110,"$51,250",18 MPG,4.6 / 5
+492,2020 Land Rover Defender 90,"$66,450",19 MPG,
+493,2020 Land Rover Discovery,"$53,650",18 MPG,3.9 / 5
+494,2020 Land Rover Discovery Sport,"$38,850",21 MPG,3.6 / 5
+495,2020 Land Rover Range Rover,"$92,250",21 MPG,3.3 / 5
+496,2020 Land Rover Range Rover Evoque,"$43,645",23 MPG,4.2 / 5
+497,2021 Land Rover Range Rover Sport,"$70,850",24 MPG,4.2 / 5
+498,2020 Land Rover Range Rover Velar,"$57,325",23 MPG,4.2 / 5
+499,2020 Land Rover Range Rover,"$97,300",19 MPG,3.3 / 5
+500,2021 Land Rover Range Rover Sport,"$84,350",19 MPG,4.2 / 5
+501,2021 Land Rover Range Rover Sport,"$84,350",19 MPG,4.2 / 5
+502,2020 Kia Cadenza,"$38,885",23 MPG,3.9 / 5
+503,2021 Kia Forte,"$18,855",31 MPG,4.5 / 5
+504,2021 Kia K5,"$24,455",32 MPG,4.7 / 5
+505,2020 Kia K900,"$61,340",21 MPG,3.9 / 5
+506,2020 Kia Optima,"$24,355",27 MPG,4.4 / 5
+507,2020 Kia Optima Hybrid,"$30,235",42 MPG,
+508,2020 Kia Optima Plug-in Hybrid,"$37,150",41 MPG,
+509,2020 Kia Rio,"$16,815",36 MPG,4.3 / 5
+510,2021 Kia Stinger,"$34,125",25 MPG,
+511,2021 Kia Seltos,"$23,110",31 MPG,4.8 / 5
+512,2021 Kia Sorento,"$30,560",26 MPG,4.7 / 5
+513,2021 Kia Sportage,"$25,110",26 MPG,4.3 / 5
+514,2021 Kia Telluride,"$33,160",23 MPG,4.8 / 5
+515,2021 Kia Sorento,"$30,560",26 MPG,4.7 / 5
+516,2021 Kia Sportage,"$25,110",26 MPG,4.3 / 5
+517,2020 Kia K900,"$61,340",21 MPG,3.9 / 5
+518,2021 Kia Sedona,"$31,520",21 MPG,4.2 / 5
+519,2020 Kia Niro,"$25,710",50 MPG,4.4 / 5
+520,2020 Kia Niro Plug-in Hybrid,"$30,610",46 MPG,4.4 / 5
+521,2020 Kia Optima Hybrid,"$30,235",42 MPG,
+522,2020 Kia Optima Plug-in Hybrid,"$37,150",41 MPG,
+523,2020 Kia Niro EV,"$40,210",112 MPGe,4.4 / 5
+524,2020 Kia Niro Plug-in Hybrid,"$30,610",46 MPG,4.4 / 5
+525,2020 Kia Optima Plug-in Hybrid,"$37,150",41 MPG,
+526,2019 Kia Soul EV,"$34,945",108 MPGe,4.3 / 5
+527,2020 Kia Rio,"$17,755",36 MPG,4.3 / 5
+528,2021 Kia Soul,"$18,610",27 MPG,4.6 / 5
+529,2019 Kia Soul EV,"$34,945",108 MPGe,4.3 / 5
+530,2020 Kia Niro,"$25,710",50 MPG,4.4 / 5
+531,2020 Kia Niro EV,"$40,210",112 MPGe,4.4 / 5
+532,2020 Kia Niro Plug-in Hybrid,"$30,610",46 MPG,4.4 / 5
+533,2021 Kia Soul,"$18,610",27 MPG,4.6 / 5
+534,2019 Kia Soul EV,"$34,945",108 MPGe,4.3 / 5
+535,2020 Jaguar XE,"$40,950",28 MPG,3.9 / 5
+536,2020 Jaguar XF,"$52,095",28 MPG,3.6 / 5
+537,2019 Jaguar XJ,"$77,025",21 MPG,
+538,2020 Jaguar I-PACE,"$71,000",76 MPGe,4.8 / 5
+539,2020 Jaguar F-TYPE,"$62,750",26 MPG,3.5 / 5
+540,2020 Jaguar XF,"$66,145",24 MPG,3.6 / 5
+541,2020 Jaguar F-TYPE,"$65,850",26 MPG,3.5 / 5
+542,2020 Hyundai Accent,"$16,270",33 MPG,4.3 / 5
+543,2021 Hyundai Elantra,"$20,645",37 MPG,4.8 / 5
+544,2020 Hyundai Ioniq Electric,"$34,020",133 MPGe,4.4 / 5
+545,2020 Hyundai Ioniq Hybrid,"$24,175",58 MPG,4.4 / 5
+546,2020 Hyundai Ioniq Plug-in Hybrid,"$27,475",52 MPG,4.4 / 5
+547,2021 Hyundai Sonata,"$24,595",32 MPG,
+548,2021 Hyundai Sonata Hybrid,"$28,745",52 MPG,
+549,2019 Hyundai Sonata Plug-in Hybrid,"$34,355",39 MPG,4.4 / 5
+550,2021 Hyundai Kona,"$21,540",30 MPG,4.4 / 5
+551,2021 Hyundai Kona Electric,"$38,365",120 MPGe,4.4 / 5
+552,2020 Hyundai NEXO,"$59,875",61 MPGe,
+553,2021 Hyundai Palisade,"$33,665",22 MPG,4.7 / 5
+554,2021 Hyundai Santa Fe,"$28,025",26 MPG,4.7 / 5
+555,2019 Hyundai Santa Fe XL,"$32,045",21 MPG,4.0 / 5
+556,2021 Hyundai Tucson,"$24,840",25 MPG,4.2 / 5
+557,2021 Hyundai Venue,"$19,925",31 MPG,4.5 / 5
+558,2021 Hyundai Kona,"$21,540",30 MPG,4.4 / 5
+559,2021 Hyundai Kona Electric,"$38,365",120 MPGe,4.4 / 5
+560,2021 Hyundai Palisade,"$33,665",22 MPG,4.7 / 5
+561,2021 Hyundai Santa Fe,"$28,025",26 MPG,4.7 / 5
+562,2019 Hyundai Santa Fe XL,"$32,045",21 MPG,4.0 / 5
+563,2021 Hyundai Tucson,"$24,840",25 MPG,4.2 / 5
+564,2021 Hyundai Venue,"$19,925",31 MPG,4.5 / 5
+565,2020 Hyundai Ioniq Electric,"$34,020",133 MPGe,4.4 / 5
+566,2020 Hyundai Ioniq Plug-in Hybrid,"$27,475",52 MPG,4.4 / 5
+567,2021 Hyundai Kona Electric,"$38,365",120 MPGe,4.4 / 5
+568,2020 Hyundai NEXO,"$59,875",61 MPGe,
+569,2019 Hyundai Sonata Plug-in Hybrid,"$34,355",39 MPG,4.4 / 5
+570,2020 Hyundai Veloster,"$19,775",28 MPG,4.4 / 5
+571,2020 Hyundai Elantra GT,"$21,625",27 MPG,4.5 / 5
+572,2020 Hyundai Ioniq Electric,"$34,020",133 MPGe,4.4 / 5
+573,2020 Hyundai Ioniq Hybrid,"$24,175",58 MPG,4.4 / 5
+574,2020 Hyundai Ioniq Plug-in Hybrid,"$27,475",52 MPG,4.4 / 5
+575,2020 Hyundai Veloster,"$19,775",28 MPG,4.4 / 5
+576,2020 FIAT 500X,"$26,085",26 MPG,3.8 / 5
+577,2020 FIAT 500L,"$23,995",25 MPG,2.9 / 5
+578,2020 FIAT 500X,"$26,085",26 MPG,3.8 / 5
+579,2019 FIAT 500e,"$34,705",112 MPGe,3.5 / 5
+580,2019 FIAT 500,"$17,740",30 MPG,3.5 / 5
+581,2019 FIAT 500 Abarth,"$21,990",30 MPG,3.5 / 5
+582,2019 FIAT 500e,"$34,705",112 MPGe,3.5 / 5
+583,2019 FIAT 500,"$17,740",30 MPG,3.5 / 5
+584,2019 FIAT 500 Abarth,"$21,990",30 MPG,3.5 / 5
+585,2019 FIAT 500e,"$34,705",112 MPGe,3.5 / 5
+586,2020 FIAT 500L,"$23,995",25 MPG,2.9 / 5
+587,2020 FIAT 500X,"$26,085",26 MPG,3.8 / 5
+588,2020 FIAT 500L,"$23,995",25 MPG,2.9 / 5
+589,2020 FIAT 124 Spider,"$27,880",30 MPG,4.5 / 5
+590,2019 FIAT 500c,"$19,485",30 MPG,3.5 / 5
+591,2019 FIAT 500c Abarth,"$23,485",30 MPG,3.5 / 5
+592,2020 FIAT 500X,"$26,085",26 MPG,3.8 / 5
+593,2020 FIAT 500L,"$23,995",25 MPG,2.9 / 5
+594,2020 FIAT 500X,"$26,085",26 MPG,3.8 / 5
+595,2019 FIAT 500e,"$34,705",112 MPGe,3.5 / 5
+596,2019 FIAT 500,"$17,740",30 MPG,3.5 / 5
+597,2019 FIAT 500 Abarth,"$21,990",30 MPG,3.5 / 5
+598,2019 FIAT 500e,"$34,705",112 MPGe,3.5 / 5
+599,2019 FIAT 500,"$17,740",30 MPG,3.5 / 5
+600,2019 FIAT 500 Abarth,"$21,990",30 MPG,3.5 / 5
+601,2019 FIAT 500e,"$34,705",112 MPGe,3.5 / 5
+602,2020 FIAT 500L,"$23,995",25 MPG,2.9 / 5
+603,2020 FIAT 500X,"$26,085",26 MPG,3.8 / 5
+604,2020 FIAT 500L,"$23,995",25 MPG,2.9 / 5
+605,2020 FIAT 124 Spider,"$27,880",30 MPG,4.5 / 5
+606,2019 FIAT 500c,"$19,485",30 MPG,3.5 / 5
+607,2019 FIAT 500c Abarth,"$23,485",30 MPG,3.5 / 5
+608,2021 Dodge Charger,"$31,490",23 MPG,3.6 / 5
+609,2021 Dodge Durango,"$33,260",21 MPG,3.1 / 5
+610,2020 Dodge Journey,"$25,170",21 MPG,2.9 / 5
+611,2020 Dodge Journey,"$25,170",21 MPG,2.9 / 5
+612,2020 Dodge Grand Caravan Passenger,"$29,025",20 MPG,3.6 / 5
+613,2020 Dodge Challenger,"$29,590",23 MPG,4.0 / 5
+614,2020 Chevrolet Bolt EV,"$37,495",118 MPGe,4.7 / 5
+615,2019 Chevrolet Cruze,"$18,870",33 MPG,4.2 / 5
+616,2020 Chevrolet Impala,"$32,495",22 MPG,4.5 / 5
+617,2020 Chevrolet Malibu,"$22,970",32 MPG,4.1 / 5
+618,2020 Chevrolet Sonic,"$20,295",29 MPG,4.3 / 5
+619,2019 Chevrolet Volt,"$34,395",42 MPG,4.4 / 5
+620,2021 Chevrolet Blazer,"$29,995",23 MPG,4.3 / 5
+621,2021 Chevrolet Equinox,"$24,995",28 MPG,
+622,2021 Chevrolet Suburban,"$52,995",18 MPG,4.6 / 5
+623,2021 Chevrolet Tahoe,"$50,295",18 MPG,4.7 / 5
+624,2021 Chevrolet Trailblazer,"$19,995",29 MPG,4.6 / 5
+625,2021 Chevrolet Traverse,"$30,995",21 MPG,4.3 / 5
+626,2021 Chevrolet Trax,"$22,395",28 MPG,3.8 / 5
+627,2021 Chevrolet Equinox,"$24,995",28 MPG,
+628,2021 Chevrolet Trailblazer,"$19,995",29 MPG,4.6 / 5
+629,2021 Chevrolet Traverse,"$30,995",21 MPG,4.3 / 5
+630,2021 Chevrolet Trax,"$22,395",28 MPG,3.8 / 5
+631,2019 Chevrolet Malibu,"$28,945",46 MPG,4.0 / 5
+632,2019 Chevrolet Volt,"$34,395",42 MPG,4.4 / 5
+633,2020 Chevrolet Bolt EV,"$37,495",118 MPGe,4.7 / 5
+634,2019 Chevrolet Volt,"$34,395",42 MPG,4.4 / 5
+635,2020 Chevrolet Camaro,"$25,995",23 MPG,4.3 / 5
+636,2021 Chevrolet Corvette,"$59,995",19 MPG,
+637,2020 Chevrolet Bolt EV,"$37,495",118 MPGe,4.7 / 5
+638,2021 Chevrolet Corvette,"$59,995",19 MPG,
+639,2019 Chevrolet Cruze,"$20,495",33 MPG,4.2 / 5
+640,2020 Chevrolet Sonic,"$20,295",29 MPG,4.3 / 5
+641,2020 Chevrolet Spark,"$14,095",33 MPG,3.8 / 5
+642,2019 Chevrolet Volt,"$34,395",42 MPG,4.4 / 5
+643,2020 Chevrolet Bolt EV,"$37,495",118 MPGe,4.7 / 5
+644,2020 Chevrolet Camaro,"$32,495",23 MPG,4.3 / 5
+645,2021 Chevrolet Corvette,"$67,495",19 MPG,
+646,2019 Buick LaCrosse,"$30,495",29 MPG,3.9 / 5
+647,2020 Buick Regal Sportback,"$26,295",26 MPG,
+648,2020 Buick Enclave,"$41,195",21 MPG,4.5 / 5
+649,2021 Buick Encore,"$24,195",27 MPG,3.9 / 5
+650,2021 Buick Encore GX,"$25,195",29 MPG,4.3 / 5
+651,2021 Buick Envision,"$32,995",26 MPG,4.1 / 5
+652,2021 Buick Encore,"$24,195",27 MPG,3.9 / 5
+653,2021 Buick Encore GX,"$25,195",29 MPG,4.3 / 5
+654,2021 Buick Envision,"$32,995",26 MPG,4.1 / 5
+655,2019 Buick Cascada,"$33,995",24 MPG,4.0 / 5
+656,2020 Buick Enclave,"$41,195",21 MPG,4.5 / 5
+657,2021 Buick Encore,"$24,195",27 MPG,3.9 / 5
+658,2021 Buick Envision,"$32,995",26 MPG,4.1 / 5
+659,2019 Buick LaCrosse,"$30,495",29 MPG,3.9 / 5
+660,2020 Buick Regal Sportback,"$26,295",26 MPG,
+661,2020 Buick Regal TourX,"$30,295",24 MPG,
+662,2020 Buick Regal TourX,"$30,295",24 MPG,
+663,2019 Buick Cascada,"$33,995",24 MPG,4.0 / 5
+664,2019 Aston Martin DB11,"$219,581",20 MPG,
+665,2019 Aston Martin DBS Superleggera,"$308,081",17 MPG,
+666,2019 Aston Martin Vantage,"$153,081",21 MPG,
+667,2019 Aston Martin DB11,"$204,581",20 MPG,
+668,2019 Aston Martin DBS Superleggera,"$308,081",17 MPG,
+669,2019 Aston Martin Vantage,"$153,081",21 MPG,
+670,2019 Aston Martin DB11,"$219,581",20 MPG,
+671,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+672,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+673,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+674,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+675,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+676,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+677,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+678,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+679,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+680,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+681,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+682,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+683,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+684,2020 Acura NSX,"$159,495",21 MPG,
+685,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+686,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+687,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+688,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+689,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+690,2020 Acura NSX,"$159,495",21 MPG,
+691,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+692,2020 Acura NSX,"$159,495",21 MPG,
+693,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+694,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+695,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+696,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+697,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+698,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+699,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+700,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+701,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+702,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+703,2020 Acura ILX,"$26,925",28 MPG,4.4 / 5
+704,2020 Acura MDX,"$45,525",23 MPG,4.6 / 5
+705,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+706,2020 Acura NSX,"$159,495",21 MPG,
+707,2021 Acura RDX,"$39,225",24 MPG,4.5 / 5
+708,2020 Acura RLX,"$55,925",23 MPG,4.0 / 5
+709,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+710,2021 Acura TLX,"$38,525",25 MPG,4.7 / 5
+711,2020 Acura MDX Sport Hybrid,"$54,025",27 MPG,4.6 / 5
+712,2020 Acura NSX,"$159,495",21 MPG,
+713,2020 Acura RLX Sport Hybrid,"$62,925",28 MPG,4.0 / 5
+714,2020 Acura NSX,"$159,495",21 MPG,
