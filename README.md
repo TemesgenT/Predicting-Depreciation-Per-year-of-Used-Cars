@@ -7,6 +7,13 @@ Used vehicle pricing is hard to get accurate prediction because the depreciation
 - Kaggle Competition [Vehicles](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) 
 
 ## 2. Documents
-  - [Final Report](https://github.com/TemesgenGT/Predicting-Depreciation-Per-year-of-Used-Cars/blob/main/Project%20final%20report.pdf)
+ - [Final Report](https://github.com/TemesgenGT/Predicting-Depreciation-Per-year-of-Used-Cars/blob/main/Project%20final%20report.pdf)
     This report covers the stages of data preparation, exploratory data analysis (EDA), preprocessing, and modeling performed for this project. 
-## - [Presentation](https://github.com/TemesgenGT/Predicting-Depreciation-Per-year-of-Used-Cars/blob/main/Project%20Presentation-2.pdf)
+ - [Presentation](https://github.com/TemesgenGT/Predicting-Depreciation-Per-year-of-Used-Cars/blob/main/Project%20Presentation-2.pdf)
+   
+The presentation summarizes the problem statement and defines the success criteria, scope, and limitations of the project. Moreover, visualization explained the association of key features versus target variable, and models performance outcome matrix, the most important features, plus elicit conclusion and recommendation. 
+## Notebook
+- Data Wrangling
+- EDA
+- Preprocessing
+- Modeling
